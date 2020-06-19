@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "Pacific Rim",
+        "tel" : "016565989",
+        "permission" : 1
+    },
+    {
+        "id" : 2,
+        "name" : "King Kong",
+        "tel" : "090004444",
+        "permission" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "soncm",
+        "tel" : "016565989",
+        "permission" : 3
+    },
+    {
+        "id" : 4,
+        "name" : "admin",
+        "tel" : "016565989",
+        "permission" : 1
+    },
+    {
+        "id" : 5,
+        "name" : "Pacific Rim",
+        "tel" : "016565989",
+        "permission" : 3
+    }
+]
